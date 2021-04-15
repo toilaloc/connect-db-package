@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":260:{a:2:{s:7:"defects";a:1:{s:37:"Tests\ConnectDBTest::testConnectMysql";i:4;}s:5:"times";a:3:{s:40:"Tests\ConnectDBTest::testConnectDatabase";d:0.004;s:42:"Tests\ConnectDBTest::testConnectPostgresql";d:0.004;s:37:"Tests\ConnectDBTest::testConnectMysql";d:0.001;}}}
